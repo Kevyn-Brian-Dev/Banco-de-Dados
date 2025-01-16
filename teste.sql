@@ -1,0 +1,5 @@
+insert into clientes(nome,rg,data_nascimento,cel_cliente,email,endereco_cliente)values('Kevyn Brian','4.840.639','13-08-2004',' 99971-3342','kevyn.brian@gmail.com','Rua jose noberto dos santos');
+insert into clientes(nome,rg,data_nascimento,cel_cliente,email,endereco_cliente)values('Silmara Lima','3.880.020','21-12-2004',' 99871-3642','lima.silmara@gmail.com','Rua jose noberto dos santos');
+insert into clientes(nome,rg,data_nascimento,cel_cliente,email,endereco_cliente)values('Kettly Tawanny','4.740.538','21-01-2011',' 99991-2302','tawanny.kettly@gmail.com','Rua vespasiano guerra');
+insert into clientes(nome,rg,data_nascimento,cel_cliente,email,endereco_cliente)values('Maria Elivania','5.800.009','06-02-1989',' 99671-3340','elivania.maria@gmail.com','Rua village dos silvas');
+insert into clientes(nome,rg,data_nascimento,cel_cliente,email,endereco_cliente)values('Claudiano Gouveia','4.040.213','26-08-1988',' 99367-2212','claudiano.gouveia@gmail.com','Rua jose noberto dos santos');
